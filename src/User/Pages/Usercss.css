@@ -1,0 +1,37 @@
+
+
+.box {
+    
+    background-color: #131515 ;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #810541;
+    margin-top: 10%;
+    border-radius: 1.5%;
+    padding: 30px 30px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.registerBtn{
+    text-align: center;
+    
+}
+
+.registerBtn a{
+    color: #DAEE01;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.imageUpload{
+    padding-left: 25px;
+    margin-top: 4px;
+  
+}
+
+.error{
+    color: #DAEE01;
+    text-align: center;
+    margin-bottom: 10px;
+}
